@@ -1,0 +1,78 @@
+.contenedor-login{
+    min-width: 350px ;
+    max-width: 400px;
+    height: 35%;
+    border-radius: 5px;   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow:  0px 0px 10px 0px rgba(0, 0, 0, 0.20);
+
+}
+
+.contenedor-login-top{
+    display: flex;
+    align-items: center;
+    color: green;
+    width: 90%;
+    height: 10%;
+    font-size: 1.1em;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.user{
+    background-color: #e4f2ff;
+    width: 93%;
+    height: 50%;
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    
+}
+
+.username{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+}
+#usuario{
+    height: 1.4rem;
+    margin-left: 37px;
+}
+
+.password{
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    
+}
+#pass{
+    height: 1.4rem;
+    margin-left: 10px;
+
+}
+
+.recover{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    width: 50%;
+    
+}
+
+
+.boton-sesion{
+    font-weight: bold;
+    color: white;
+    background: #4fef6c;
+    width: 30%;
+    height: 15%;
+    border: none;
+    cursor: pointer;
+}

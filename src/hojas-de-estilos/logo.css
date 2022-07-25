@@ -1,0 +1,11 @@
+.contenedor-logo{
+    display: flex;
+    justify-content: center;
+    min-width: 60%;
+    height: 60%;
+    
+}
+.imagen-logo{
+    min-width: 350px;
+    min-height: auto;
+}
