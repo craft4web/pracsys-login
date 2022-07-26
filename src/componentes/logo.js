@@ -5,9 +5,9 @@ function Logo(){
   return(
     <div className="contenedor-logo">
         
-          <img className="imagen-logo"
+          {/* <img className="imagen-logo"
             src={require("../imagenes/logoPracsys.png")} alt="Logo de empresa"
-          />
+          /> */}
     </div>
   );
 }
