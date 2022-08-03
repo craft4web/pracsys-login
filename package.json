@@ -1,6 +1,6 @@
 {
   "name": "test-ejemplo",
-  "homepage": "https://craft4web.github.io/test-ejemplo",
+  "homepage": "https://craft4web.github.io/pracsys-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
