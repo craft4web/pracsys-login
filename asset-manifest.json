@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pracsys-login/static/css/main.bbe6fff2.css",
+    "main.js": "/pracsys-login/static/js/main.53bdabfa.js",
+    "static/js/787.ef81e2b8.chunk.js": "/pracsys-login/static/js/787.ef81e2b8.chunk.js",
+    "static/media/backgroundLogo.jpeg": "/pracsys-login/static/media/backgroundLogo.fa392ec27ad5731cc177.jpeg",
+    "index.html": "/pracsys-login/index.html",
+    "main.bbe6fff2.css.map": "/pracsys-login/static/css/main.bbe6fff2.css.map",
+    "main.53bdabfa.js.map": "/pracsys-login/static/js/main.53bdabfa.js.map",
+    "787.ef81e2b8.chunk.js.map": "/pracsys-login/static/js/787.ef81e2b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe6fff2.css",
+    "static/js/main.53bdabfa.js"
+  ]
+}
